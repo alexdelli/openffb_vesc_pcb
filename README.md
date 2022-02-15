@@ -12,13 +12,17 @@ Feel free to modify and improve the pcb as you prefer
 - in the upper left part you have the Resistor zone
 - in the upper right part you can solder the STM32F407 board
 - in the bottom of the pcb you can connect the VESC 4.20
+- in the bottom of the pcb you can connect the MT3608 (booster)
 - the USB port is connected to PC11 (-) and PC12 (+) pins
+- in the upper part added a db15 port to connect Biss-C encoder wires
+- in the upper part added a RS422 Max490 to connect the encoder with VESC
 - .....add what you want
 
 
 
+![pcb](https://github.com/alexdelli/openffb_vesc_pcb/blob/main/pcb_design/TopSide.PNG)
 
-![pcb](https://github.com/alexdelli/openffb_vesc_pcb/blob/main/pcb_design/2d.PNG)
+![pcb](https://github.com/alexdelli/openffb_vesc_pcb/blob/main/pcb_design/BottomSide.PNG)
 
 
 
